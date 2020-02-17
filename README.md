@@ -1,4 +1,4 @@
-UML
+Industry Lab 6a: UML
 ======
 ### Git Repository
 There is no source code for this lab.
